@@ -1,0 +1,26 @@
+body {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.btn {
+    margin-right: 5px;
+}
+
+.form-label {
+    font-weight: bold;
+}
